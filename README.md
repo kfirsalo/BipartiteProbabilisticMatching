@@ -15,4 +15,4 @@ Our main file is *matching_solutions.py*. It includes a class that runs the requ
 This class includes measurements for performance of the algorithm on the graph, based on a given ground truth, and a visualization of the 
 graph with its results.
 
-For more information, please refer to the [Wiki](https://github.com/shovalf/BipartiteProbabilisticMatching/wiki) of this repository. 
+For more information, please refer to the [Wiki](../../wiki) of this repository. 
